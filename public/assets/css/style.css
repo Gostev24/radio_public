@@ -1,0 +1,59 @@
+body {
+    font-family: 'Russo One', sans-serif;
+}
+
+footer {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.nav-link {
+    color: black;
+
+}
+.nav-item{
+    border-bottom: 2px solid white;
+}
+
+.nav-item:hover{
+    border-bottom: 2px solid black;
+}
+
+.navbar-brand {
+    color: black;
+    border-bottom: 2px solid white;
+}
+
+.txt-footer {
+    color: black;
+    font-size: 15px;
+}
+
+.navbar {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.card {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.wow {
+    visibility: hidden;
+}
+
+.card-body {
+    padding: 1px;
+}
+
+.card-title {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.title-font {
+    color: black;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
